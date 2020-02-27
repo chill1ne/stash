@@ -1,5 +1,5 @@
 {
   version: "2.0",
-  url: "https://gist.github.com/lukesampson/6446238/raw/hello.ps1",
+  url: "https://github.com/chill1ne/stash/blob/master1/nomachine.ps1",
   bin: "nomachine.ps1"
 }
